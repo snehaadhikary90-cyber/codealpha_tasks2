@@ -1,27 +1,2 @@
-A simple Python application that calculates total investment based on predefined stock prices and user-entered quantities.
-
-Features:
-
-Displays a list of available stocks and their prices.
-
-Accepts stock names and quantities from users.
-
-Calculates individual stock investments.
-
-Calculates the total portfolio investment.
-
-Saves portfolio details in a text file (portfolio.txt).
-
-Concepts Used:
-
-Python dictionaries
-
-User input and output
-
-For loops
-
-If-else statements
-
-Basic arithmetic
-
-File handling
+# python-stock-portfolio-tracker
+A beginner-friendly Stock Portfolio Tracker built using Python. This project allows users to enter stock names and quantities, calculate their total investment using predefined stock prices, and save portfolio details in a text file. It demonstrates Python dictionaries, loops, conditional statements, user input, basic arithmetic, and file handling
